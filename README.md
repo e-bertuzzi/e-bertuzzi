@@ -1,0 +1,3 @@
+- 👋 Hi, I’m E. Bertuzzi
+- 🎓 Software Engineer - first level degree
+- 📚 Master's degree in computer engineering
